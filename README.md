@@ -15,6 +15,7 @@
 - 💬 Ask me about **React and Web development**
 
 - 📫 How to reach me **pratiyush28office@gmail.com**
+- My all Links are here **https://bio.link/pratiyush**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
