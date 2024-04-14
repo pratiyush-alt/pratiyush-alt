@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **web development and Android development**
+- 🔭 I’m currently working on **Front-end web development**
 
-- 🌱 I’m currently learning **React,Kotlin**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **React and Web development**
 
-- 📫 How to reach me **pratiyushverma6@gmail.com**
+- 📫 How to reach me **pratiyush28office@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
