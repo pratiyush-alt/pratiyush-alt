@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/77fd642ea8fb728c3beefd3f0b3df66277d67919f03081ec3b6e405baf5e5426/68747470733a2f2f7777772e686f72697a6f6e742e636f6d2e68722f706f73616f2f66726f6e74656e642d646576656c6f7065722e676966)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSciguLEhV0qALX--3j9R6Wmj4FzkgHtmyAzOHhkIB5L1kdjKOeAnmurpMSLwmC7kQDnxw&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Pratiyush Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
