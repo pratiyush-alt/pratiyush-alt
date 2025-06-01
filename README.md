@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSciguLEhV0qALX--3j9R6Wmj4FzkgHtmyAzOHhkIB5L1kdjKOeAnmurpMSLwmC7kQDnxw&usqp=CAU)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s)
 <h1 align="center">Hi 👋, I'm Pratiyush Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
