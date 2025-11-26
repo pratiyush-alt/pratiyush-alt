@@ -1,4 +1,5 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s)
+![MasterHead](<img width="3400" height="784" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/39297621-a7e1-470e-a7b3-c05e79b31019" />
+)
 <h1 align="center">Hi 👋, I'm Pratiyush Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
