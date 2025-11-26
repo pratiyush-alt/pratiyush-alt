@@ -1,5 +1,4 @@
-![MasterHead](<img width="3400" height="784" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/39297621-a7e1-470e-a7b3-c05e79b31019" />
-)
+<img width="3400" height="784" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/5b03f82a-3546-4593-89d5-3d719d1cea13" />
 <h1 align="center">Hi 👋, I'm Pratiyush Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
